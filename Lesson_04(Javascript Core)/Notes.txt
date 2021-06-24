@@ -1,0 +1,13 @@
+=== equal value and equal type(esit deger ve esit tip!!!!)
+!==	not equal value or not equal type
+
+
+object degerleri heap memory de tutulur!!!
+primitive tipler stack de yer tutar.
+stack static yer tahsisi ve bunlara erisim hizlidir, heap dinamik yer tahsisisi  daha yavastir.
+stack alani kisitlidir. büyük veriler heap de tutulur.
+
+
+stack siralidir adresleme yöntemi olarak son giren ilk cikar.
+
+-------
